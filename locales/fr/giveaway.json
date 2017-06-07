@@ -22,8 +22,8 @@
       "usersLeft": "Nombre de participants restants : {{count}}",
       "titleGiveawayFinished": "Concours terminé!",
       "titleResult": "Resultats",
-      "result": "ðŸ˜‡Gagnant: **{{winner.user.username}}**\nA participé au concours par le serveur: **{{winner.channel.guild.name}}**",
-      "invalidResult": "Personne n'a gagné ! ðŸ˜ "
+      "result": "😇 Gagnant: **{{winner.user.username}}**\nA participé au concours par le serveur: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Personne n'a gagné ! 😅"
     }
   },
   "claimedAnnounce" : "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagné",
