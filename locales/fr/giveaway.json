@@ -1,4 +1,4 @@
-{ eeeee
+{
   "new": {
     "announcement": "{{mention}} > Nouveau concours > Jeu à gagner: **{{game.name}}**\n>>>Clef donnée par: <@{{user.id}}> / **{{user.username}}**",
     "embed": {
@@ -20,7 +20,7 @@
     "embed": {
       "totalUsers": "Nombre de participants total : {{count}}",
       "usersLeft": "Nombre de participants restants : {{count}}",
-      "titleGiveawayFinished": "Concours termin‚!",
+      "titleGiveawayFinished": "Concours terminé!",
       "titleResult": "Resultats",
       "result": "ğŸ˜‡Gagnant: **{{winner.user.username}}**\nA participé au concours par le serveur: **{{winner.channel.guild.name}}**",
       "invalidResult": "Personne n'a gagné ! ğŸ˜ "
