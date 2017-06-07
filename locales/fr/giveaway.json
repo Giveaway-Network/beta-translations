@@ -1,33 +1,33 @@
 {
   "new": {
-    "announcement": "{{mention}} > Nouveau concours > Jeu à gagner: **{{game.name}}**\n>>>Clef donnée par: <@{{user.id}}> / **{{user.username}}**",
+    "announcement": "{{mention}} > Nouveau concours > Jeu Ã  gagner: **{{game.name}}**\n>>>Clef donnÃ©e par: <@{{user.id}}> / **{{user.username}}**",
     "embed": {
       "title": "Nouveau concours (Lien du jeu: cliquez ici)",
       "titleGameName": "Nom du jeu:",
       "titleProviderInfos": "__Informations donateur:__",
       "titleEnter": "Pour participer:",
-      "reputation": "Reputation: {{user.reputation}}",
-      "keyDonated": "Clefs données: {{user.keyDonated}}",
-      "keyClaimed": "Clefs gagnées: {{user.keyClaimed}}",
+      "reputation": "Reputation: {{user.reputation}}", 
+      "keyDonated": "Clefs donnÃ©es: {{user.keyDonated}}",
+      "keyClaimed": "Clefs gagnÃ©es: {{user.keyClaimed}}",
       "toEnter": "Tape **{{commandEnter}}**"
     }
   },
   "timeLeft": ":alarm_clock: Temps restant: {{seconds}}s :alarm_clock:",
   "guildStats": "#Statistiques du concours par serveur",
   "winner": {
-    "announcement": ">>>Okay {{- mention}}:\nTape **{{commandClaim}}** pour réclamer ta clef.\n**Tu as 30s, vite ** :smirk_cat: ",
+    "announcement": ">>>Okay {{- mention}}:\nTape **{{commandClaim}}** pour rÃ©clamer ta clef.\n**Tu as 30s, vite ** :smirk_cat: ",
     "invalidUser": "Utilisateur invalide. Plus de participant dans le concours ?",
     "embed": {
       "totalUsers": "Nombre de participants total : {{count}}",
       "usersLeft": "Nombre de participants restants : {{count}}",
-      "titleGiveawayFinished": "Concours terminé!",
+      "titleGiveawayFinished": "Concours terminÃ©!",
       "titleResult": "Resultats",
-      "result": "ğŸ˜‡Gagnant: **{{winner.user.username}}**\nA participé au concours par le serveur: **{{winner.channel.guild.name}}**",
-      "invalidResult": "Personne n'a gagné ! ğŸ˜ "
+      "result": "Ã°Å¸Ëœâ€¡Gagnant: **{{winner.user.username}}**\nA participÃ© au concours par le serveur: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Personne n'a gagnÃ© ! Ã°Å¸ËœÂ "
     }
   },
-  "claimedAnnounce" : "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagné",
-  "entered" : ":gift: | Vous êtes rentré dans le concours",
+  "claimedAnnounce" : "Bravo Ã  **{{user.username}}** qui a rÃ©clamÃ© sa clef, et donc gagnÃ©",
+  "entered" : ":gift: | Vous Ãªtes rentrÃ© dans le concours",
   "claimed":"Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
   "embed": {
     "footer": "Powered by GA Network"
