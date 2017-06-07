@@ -1,5 +1,5 @@
 {
-    "langSet": "English on",
+  "langSet": "English on",
   "new": {
     "announcement": "{{mention}} > New giveaway > Game: **{{game.name}}**\n>>>Key donated by: <@{{user.id}}> aka **{{user.username}}**",
     "embed": {
