@@ -1,4 +1,5 @@
 {
+  "langSet": "Français operationnel",
   "new": {
     "announcement": "{{mention}} > Nouveau concours > Jeu à gagner: **{{game.name}}**\n>>>Clef donnée par: <@{{user.id}}> / **{{user.username}}**",
     "embed": {
