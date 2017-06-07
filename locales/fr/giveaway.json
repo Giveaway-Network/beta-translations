@@ -12,7 +12,7 @@
       "toEnter": "Tape **{{commandEnter}}**"
     }
   },
-  "timeLeft": ":alarm_clock: Temp)s restant: {{seconds}}s :alarm_clock:",
+  "timeLeft": ":alarm_clock: Temps restant: {{seconds}}s :alarm_clock:",
   "guildStats": "#Statistiques du concours par serveur",
   "winner": {
     "announcement": ">>>Okay {{mention}}:\nTape **{{commandClaim}}** pour réclamer ta clef.\n**Tu as 30s, vite ** :smirk_cat: ",
