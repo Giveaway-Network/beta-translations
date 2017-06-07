@@ -1,4 +1,4 @@
-{
+{ eeeee
   "new": {
     "announcement": "{{mention}} > Nouveau concours > Jeu à gagner: **{{game.name}}**\n>>>Clef donnée par: <@{{user.id}}> / **{{user.username}}**",
     "embed": {
@@ -26,7 +26,7 @@
       "invalidResult": "Personne n'a gagné ! ğŸ˜ "
     }
   },
-  "claimedAnnounce" : "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagn‚",
+  "claimedAnnounce" : "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagné",
   "entered" : ":gift: | Vous êtes rentré dans le concours",
   "claimed":"Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
   "embed": {
