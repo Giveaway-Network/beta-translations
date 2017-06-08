@@ -27,9 +27,18 @@
       "invalidResult": "No ones win ! 😐 "
     }
   },
-  "claimedAnnounce" : "Congrats to **{{user.username}}** who claimed right now",
-  "entered" : ":gift: | You entered in giveaway. Good luck",
-  "claimed":"Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "claimedAnnounce": "Congrats to **{{user.username}}** who claimed right now",
+  "entered": ":gift: | You entered in giveaway. Good luck",
+  "claimed": "Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "advertisement": {
+    "embed": {
+      "title": "Advertisement",
+      "infos": "Infos",
+      "link": "link",
+      "noInfos": "No infos",
+      "noLink": "No link"
+    }
+  },
   "embed": {
     "footer": "Powered by GA Network"
   }

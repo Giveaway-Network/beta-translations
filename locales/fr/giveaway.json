@@ -7,7 +7,7 @@
       "titleGameName": "Nom du jeu:",
       "titleProviderInfos": "__Informations donateur:__",
       "titleEnter": "Pour participer:",
-      "reputation": "Reputation: {{user.reputation}}", 
+      "reputation": "Reputation: {{user.reputation}}",
       "keyDonated": "Clefs données: {{user.keyDonated}}",
       "keyClaimed": "Clefs gagnées: {{user.keyClaimed}}",
       "toEnter": "Tape **{{commandEnter}}**"
@@ -27,9 +27,18 @@
       "invalidResult": "Personne n'a gagné ! 😅"
     }
   },
-  "claimedAnnounce" : "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagné",
-  "entered" : ":gift: | Vous êtes rentré dans le concours",
-  "claimed":"Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "claimedAnnounce": "Bravo à **{{user.username}}** qui a réclamé sa clef, et donc gagné",
+  "entered": ":gift: | Vous êtes rentré dans le concours",
+  "claimed": "Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "advertisement": {
+    "embed": {
+      "title": "Annonce",
+      "infos": "Information",
+      "link": "Lien(s)",
+      "noInfos": "Pas d'informations",
+      "noLink": "Pas de lien"
+    }
+  },
   "embed": {
     "footer": "Powered by GA Network"
   }
