@@ -8,4 +8,4 @@ Official Discord Server: https://discord.gg/exyxxys
 Giveaway Network Bot Page: https://bots.discord.pw/bots/298492601756024835
 Shop website: store.simoncad.tk/shop
 
-![Sharding](https://github.com/maxerbox/giveaway-network/blob/master/Sharding.png?raw=true)
+![Sharding](https://raw.githubusercontent.com/maxerbox/giveaway-network/master/Sharding.png)
