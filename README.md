@@ -7,3 +7,5 @@ GA community is a 100% community giveaways based server, for community, by commu
 Official Discord Server: https://discord.gg/exyxxys
 Giveaway Network Bot Page: https://bots.discord.pw/bots/298492601756024835
 Shop website: store.simoncad.tk/shop
+
+![Sharding](https://github.com/maxerbox/giveaway-network/blob/master/Sharding.png?raw=true)
