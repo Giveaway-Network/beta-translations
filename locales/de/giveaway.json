@@ -1,0 +1,45 @@
+﻿{
+  "langSet": "English on",
+  "new": {
+    "announcement": "{{mention}} > Neues Gewinnspiel > Spiel: **{{game.name}}**\n>>>Gespendet von: <@{{user.id}}> bzw. **{{user.username}}**",
+    "embed": {
+      "title": "Neues Gewinnspiel (Link zum Spiel)",
+      "titleGameName": "Name des Spiels:",
+      "titleProviderInfos": "__Provider Infos:__",
+      "titleEnter": "Zum teilnehmen:",
+      "reputation": "Reputation: {{user.reputation}}",
+      "keyDonated": "Gespendete Spiel-Keys: {{user.keyDonated}}",
+      "keyClaimed": "Erhaltene Spiele-Keys: {{user.keyClaimed}}",
+      "toEnter": "Type in chat **{{commandEnter}}**"
+    }
+  },
+  "timeLeft": ":alarm_clock: Übrige Zeit: {{seconds}} Sekunden :alarm_clock:",
+  "guildStats": "#Server Statistiken",
+  "winner": {
+    "announcement": ">>>Okay {{mention}}:\nUm den Key zu erhalten, benutze **{{commandClaim}}**\n**Du hast 30 Sekunden!**",
+    "invalidUser": "Unbekannter Nutzer. Kein Nutzer mehr im Gewinnspiel ?",
+    "embed": {
+      "totalUsers": "Anzahl der Teilnehmer am Gewinnspiel : {{count}}",
+      "usersLeft": "Anzahl der übrigen Teilnehmer am Gewinnspiel : {{count}}",
+      "titleGiveawayFinished": "Gewinnspiel beendet",
+      "titleResult": "Ergebnis:",
+      "result": "😇Gewinner: **{{winner.user.username}}**\n: Gewinnspiel betreten von Server: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Niemand hat gewonnen ! 😐"
+    }
+  },
+  "claimedAnnounce": "Glückwunsch an **{{user.username}}**, der grade seinen Spiel-Key erhalten hat",
+  "entered": ":gift: | Du nimmst nun an diesem Gewinnspiel teil! Viel Glück!",
+  "claimed": "Dein Spiel-Key für __{{game.name}}__: `{{game.key}}`\nDer Key funktioniert nicht ? Du hast 10 Minuten um den Befehl !rep bad oder | !rep good zu benutzen, um dem Spender Feedback zu hinterlassen",
+  "advertisement": {
+    "embed": {
+      "title": "Werbung",
+      "infos": "Infos",
+      "link": "Link",
+      "noInfos": "Keine Infos",
+      "noLink": "Kein Link"
+    }
+  },
+  "embed": {
+    "footer": "Unterstützt durch GA Network"
+  }
+}
