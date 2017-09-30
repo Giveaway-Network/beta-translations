@@ -1,5 +1,5 @@
 ﻿{
-  "langSet": "English on",
+  "langSet": "Dutch on",
   "new": {
     "announcement": "{{mention}} > Neues Gewinnspiel > Spiel: **{{game.name}}**\n>>>Gespendet von: <@{{user.id}}> bzw. **{{user.username}}**",
     "embed": {
