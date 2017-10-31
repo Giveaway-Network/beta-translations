@@ -1,0 +1,45 @@
+{
+  "langSet": "Dutch on",
+  "new": {
+    "announcement": "{{mention}} > Nieuwe giveaway > Game: **{{game.name}}**\n>>>Key gedoneerd door: <@{{user.id}}> aka **{{user.username}}**",
+    "embed": {
+      "title": "Nieuwe Giveaway (Click here)",
+      "titleGameName": "Game naam:",
+      "titleProviderInfos": "__Over de donateur:__",
+      "titleEnter": "Om deel te nemen:",
+      "reputation": "Reputatie: {{user.reputation}}",
+      "keyDonated": "Keys gedoneerd: {{user.keyDonated}}",
+      "keyClaimed": "Keys geclaimed: {{user.keyClaimed}}",
+      "toEnter": "Typ in chat **{{commandEnter}}**"
+    }
+  },
+  "timeLeft": ":alarm_clock: Nog {{seconds}} seconden te gaan! :alarm_clock:",
+  "guildStats": "#Server Statistieken",
+  "winner": {
+    "announcement": ">>>Okay {{mention}}:\nTyp **{{commandClaim}}** in de chat om je key te claimen.\n**Je hebt 30 seconden**",
+    "invalidUser": "Deelnemer ongeldig. Niet meer deelnemers in de giveaway ?",
+    "embed": {
+      "totalUsers": "Totaal aantal deelnemers in giveaway : {{count}}",
+      "usersLeft": "Deelnemers over in giveaway : {{count}}",
+      "titleGiveawayFinished": "Giveaway is geeindigd",
+      "titleResult": "Resultaat",
+      "result": "😇Winnaar: **{{winner.user.username}}**\nDeelgenomen via de server: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Niemand wint! 😐 "
+    }
+  },
+  "claimedAnnounce": "Felicitaties naar **{{user.username}}** die zojuist heeft geclaimd",
+  "entered": ":gift: | Je neemt nu deel aan de giveaway. Succes met winnen!",
+  "claimed": "Hier is je key voor __{{game.name}}__ key: `{{game.key}}`\nWerkt je key niet? Je hebt 10 minuten om de commands !rep bad  | !rep good te gebruiken om de donateur op de hoogte te stellen",
+  "advertisement": {
+    "embed": {
+      "title": "Advertentie",
+      "infos": "Info",
+      "link": "link",
+      "noInfos": "Geen info",
+      "noLink": "Geen link"
+    }
+  },
+  "embed": {
+    "footer": "Powered by GA Network"
+  }
+}
