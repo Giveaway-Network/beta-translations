@@ -3,7 +3,7 @@
   "new": {
     "announcement": "{{mention}} > Uusi kilpailu > Peli: **{{game.name}}**\n>>>Pelin Lahjoittaja: <@{{user.id}}> eli **{{user.username}}**",
     "embed": {
-      "title": Uusi kilpailu (Click here)",
+      "title": "Uusi kilpailu (Click here)",
       "titleGameName": "Pelin nimi:",
       "titleProviderInfos": "__Lahjoittajan tiedot:__",
       "titleEnter": "Osallistuaaksesi:",
@@ -33,13 +33,13 @@
   "advertisement": {
     "embed": {
       "title": "Mainokset",
-      "infos": Tiedot",
+      "infos": "Tiedot",
       "link": "Linkki",
       "noInfos": "Ei tietoa",
       "noLink": "Ei linkkiä"
     }
   },
   "embed": {
- "footer": "Powered by GA Network"
+ "footer": "Powered by GA Network. Translated by YoungWold"
   }
 }
