@@ -1,0 +1,45 @@
+{
+  "langSet": "Suomen kieli Valittu",
+  "new": {
+    "announcement": "{{mention}} > Uusi kilpailu > Peli: **{{game.name}}**\n>>>Pelin Lahjoittaja: <@{{user.id}}> eli **{{user.username}}**",
+    "embed": {
+      "title": Uusi kilpailu (Click here)",
+      "titleGameName": "Pelin nimi:",
+      "titleProviderInfos": "__Lahjoittajan tiedot:__",
+      "titleEnter": "Osallistuaaksesi:",
+      "reputation": "Maine: {{user.reputation}}",
+      "keyDonated": "Pelejä lahjoitettu: {{user.keyDonated}}",
+      "keyClaimed": "Pelejä lunastettu: {{user.keyClaimed}}",
+      "toEnter": "Osallistuaaksesi kirjoita **{{commandEnter}}**"
+    }
+  },
+  "timeLeft": ":alarm_clock: Aikaa jäljellä: {{seconds}}s :alarm_clock:",
+  "guildStats": "#Palvelimen tilastot",
+  "winner": {
+    "announcement": ">>>Okay {{mention}}:\nKirjoita **{{commandClaim}}**Lunastaaksesi Pelin.\n**sinulla on 30s**",
+    "invalidUser": "Käyttäjä on Virheellinen. Ei enempää käyttäjiä jäljellä ?",
+    "embed": {
+      "totalUsers": "Käyttäjiä mukana yhteensä : {{count}}",
+      "usersLeft": "osallistujia jäjellä : {{count}}",
+      "titleGiveawayFinished": "Kilpailu on päättynyt",
+      "titleResult": "Tulos",
+      "result": "😇Voittaja: **{{winner.user.username}}**\nLiittyi palvelimen kautta: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Kukaan ei voita ! 😐 "
+    }
+  },
+  "claimedAnnounce": "Onnittelut käyttäjälle **{{user.username}}** joka lunasti pelin juuri nyt",
+  "entered": ":gift: | Sinä osallistuit kilpailuun. Hyvää onnea",
+  "claimed": "Sinun __{{game.name}}__ koodisi: `{{game.key}}`\nKoodi ei toimi ? Sinulla on 10 minuttia käyttää komentoa !rep bad tai | !rep good Ilmoittaaksesi pelin lahjoittajalle",
+  "advertisement": {
+    "embed": {
+      "title": "Mainokset",
+      "infos": Tiedot",
+      "link": "Linkki",
+      "noInfos": "Ei tietoa",
+      "noLink": "Ei linkkiä"
+    }
+  },
+  "embed": {
+ "footer": "Powered by GA Network"
+  }
+}
