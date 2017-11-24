@@ -3,24 +3,24 @@
   "new": {
     "announcement": "{{mention}} > Uusi kilpailu > Peli: **{{game.name}}**\n>>>Pelin Lahjoittaja: <@{{user.id}}> eli **{{user.username}}**",
     "embed": {
-      "title": Uusi kilpailu (Click here)",
+      "title": Uusi kilpailu (paina tästä)",
       "titleGameName": "Pelin nimi:",
       "titleProviderInfos": "__Lahjoittajan tiedot:__",
-      "titleEnter": "Osallistuaaksesi:",
+      "titleEnter": "Osallistuaksesi:",
       "reputation": "Maine: {{user.reputation}}",
       "keyDonated": "Pelejä lahjoitettu: {{user.keyDonated}}",
       "keyClaimed": "Pelejä lunastettu: {{user.keyClaimed}}",
-      "toEnter": "Osallistuaaksesi kirjoita **{{commandEnter}}**"
+      "toEnter": "Osallistuaksesi kirjoita **{{commandEnter}}**"
     }
   },
   "timeLeft": ":alarm_clock: Aikaa jäljellä: {{seconds}}s :alarm_clock:",
   "guildStats": "#Palvelimen tilastot",
   "winner": {
-    "announcement": ">>>Okay {{mention}}:\nKirjoita **{{commandClaim}}**Lunastaaksesi Pelin.\n**sinulla on 30s**",
+    "announcement": ">>>Okay {{mention}}:\nKirjoita **{{commandClaim}}** Lunastaaksesi Pelin.\n**sinulla on 30s**",
     "invalidUser": "Käyttäjä on Virheellinen. Ei enempää käyttäjiä jäljellä ?",
     "embed": {
       "totalUsers": "Käyttäjiä mukana yhteensä : {{count}}",
-      "usersLeft": "osallistujia jäjellä : {{count}}",
+      "usersLeft": "Käyttäjiä jäjellä : {{count}}",
       "titleGiveawayFinished": "Kilpailu on päättynyt",
       "titleResult": "Tulos",
       "result": "😇Voittaja: **{{winner.user.username}}**\nLiittyi palvelimen kautta: **{{winner.channel.guild.name}}**",
