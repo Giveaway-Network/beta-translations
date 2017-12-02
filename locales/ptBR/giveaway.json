@@ -1,13 +1,13 @@
 {
-  "langSet": "Português ativado",
+  "langSet": "Portuguï¿½s ativado",
   "new": {
-    "announcement": "{{mention}} > Nova giveaway > Jogo: **{{game.name}}**\n>>>Key doada por: <@{{user.id}}> também conhecido como: **{{user.username}}**",
+    "announcement": "{{mention}} > Nova giveaway > Jogo: **{{game.name}}**\n>>>Key doada por: <@{{user.id}}> tambï¿½m conhecido como: **{{user.username}}**",
     "embed": {
       "title": "Nova giveaway (Clique aqui)",
       "titleGameName": "Nome do jogo:",
-      "titleProviderInfos": "__Informações do doador:__",
+      "titleProviderInfos": "__Informaï¿½ï¿½es do doador:__",
       "titleEnter": "Para entrar:",
-      "reputation": "Reputação: {{user.reputation}}",
+      "reputation": "Reputaï¿½ï¿½o: {{user.reputation}}",
       "keyDonated": "Keys doadas: {{user.keyDonated}}",
       "keyClaimed": "Keys obtidas: {{user.keyClaimed}}",
       "toEnter": "Digite no chat: **{{commandEnter}}**"
@@ -16,30 +16,30 @@
   "timeLeft": ":alarm_clock: Tempo restante: {{seconds}}s :alarm_clock:",
   "guildStats": "#Servidores",
   "winner": {
-    "announcement": ">>>Ok, {{mention}}:\nUse o comando **{{commandClaim}}** para pegar a sua key.\n**Você tem 30s**",
-    "invalidUser": "Usuário inválido. Não há mais usuários na giveaway ?",
+    "announcement": ">>>Ok, {{mention}}:\nUse o comando **{{commandClaim}}** para pegar a sua key.\n**Vocï¿½ tem 30s**",
+    "invalidUser": "Usuï¿½rio invï¿½lido. Nï¿½o hï¿½ mais usuï¿½rios na giveaway ?",
     "embed": {
-      "totalUsers": "Total de usuários na giveaway : {{count}}",
-      "usersLeft": "Usuários restantes na giveaway : {{count}}",
+      "totalUsers": "Total de usuï¿½rios na giveaway : {{count}}",
+      "usersLeft": "Usuï¿½rios restantes na giveaway : {{count}}",
       "titleGiveawayFinished": "Giveaway terminada",
       "titleResult": "Resultado",
       "result": "ğŸ˜‡Ganhador: **{{winner.user.username}}**\nEntrou pelo server: **{{winner.channel.guild.name}}**",
-      "invalidResult": "Ninguém venceu ! ğŸ˜ "
+      "invalidResult": "Ninguï¿½m venceu ! ğŸ˜ "
     }
   },
-  "claimedAnnounce": "Parabéns para o/a **{{user.username}}** que acabou de ganhar a key",
-  "entered": ":gift: | Você entrou na giveaway. Boa sorte",
-  "claimed": "Sua key do jogo __{{game.name}}__: `{{game.key}}`\nSua key não funciona ?Você tem 10 minutos para usar o comando !rep bad ou | !rep good para avaliar o doador do jogo",
+  "claimedAnnounce": "Parabï¿½ns para o/a **{{user.username}}** que acabou de ganhar a key",
+  "entered": ":gift: | Vocï¿½ entrou na giveaway. Boa sorte",
+  "claimed": "Sua key do jogo __{{game.name}}__: `{{game.key}}`\nSua key nï¿½o funciona ?Vocï¿½ tem 10 minutos para usar o comando !rep bad ou | !rep good para avaliar o doador do jogo",
   "advertisement": {
     "embed": {
-      "title": "Anúncio",
-      "infos": "Informações",
+      "title": "Anï¿½ncio",
+      "infos": "Informaï¿½ï¿½es",
       "link": "link",
-      "noInfos": "Sem informações",
+      "noInfos": "Sem informaï¿½ï¿½es",
       "noLink": "Sem link"
     }
   },
   "embed": {
-    "footer": "Desenvolvido pela GA Network"
+    "footer": "Desenvolvido pela GA Network. Translated by Xiang"
   }
 }
