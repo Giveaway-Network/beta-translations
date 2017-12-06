@@ -1,12 +1,12 @@
 {
   "1": {
     "link": "https://www.patreon.com/ga_community",
-    "infos": "**Nos patrocine no Patreon! (Custo do servidor: 17$/mês)**",
+    "infos": "**Nos patrocine no Patreon! (Custo do servidor: 17$/mes)**",
     "image": "https://i.imgur.com/R0T88f3.png"
   },
   "2": {
     "link": "https://bots.discord.pw/bots/298492601756024835",
-    "infos": "Adicione o bot para o seu servidor: giveaways de graça !",
+    "infos": "Adicione o bot para o seu servidor: giveaways de graca !",
     "image": "https://cdn.discordapp.com/app-icons/298492601756024835/08a782636e2a58aea0ebdece95c4f54c.jpg"
   },
   "9": {
@@ -14,24 +14,29 @@
     "infos": "**Lute pela neutralidade da rede !**\nhttps://www.battleforthenet.com/\n\nVeja nossos parceiros.\nSe você quiser ter seu server nessa lista, contate [EU/PC]maxerbox#1389",
     "image": "https://www.battleforthenet.com/images/share_images/urgent.png"
   },
+<<<<<<< HEAD
   "8": {
     "link": "**Mamilos Club Steam**: https://mamilos.giveawaynetwork.xyz\n**Deadlyforce**: https://deadlyforce.giveawaynetwork.xyz/\n**HaxSupport**: https://haxsupport.giveawaynetwork.xyz\n**Empire of Borosa**: https://borosa-empire.giveawaynetwork.xyz/\n**Aporiz's Kawaii Community**: https://kawai-community.giveawaynetwork.xyz/\n**Come Honor Face**: https://honorface.giveawaynetwork.xyz\n**Colonies**: https://colonies.giveawaynetwork.xyz\n**Indian Gaming Server**: https://igs.giveawaynetwork.xyz/\n**Gamer's Paradise**: https://gamer-paradise.giveawaynetwork.xyz\n**Qomepa | Giveaways:** https://qomepa.giveawaynetwork.xyz\n**Skrrr Street:** https://skrrr-street.giveawaynetwork.xyz\n**GLOBAL GAMING HUB:** (I love dat server) https://ggh.giveawaynetwork.xyz\n**Kindergarten Community :** https://kindergarten-community.giveawaynetwork.xyz\n**Stephcraft:** https://stephcraft.giveawaynetwork.xyz\n**Mansão Wayne:** https://mansao-wayne.giveawaynetwork.xyz\n**Gamerz:** https://gamerz.giveawaynetwork.xyz",
+=======
+  "4": {
+    "link": "**Mamilos Club Steam**: https://mamilos.giveawaynetwork.xyz\n**Deadlyforce**: https://deadlyforce.giveawaynetwork.xyz/\n**HaxSupport**: https://haxsupport.giveawaynetwork.xyz\n**Empire of Borosa**: https://borosa-empire.giveawaynetwork.xyz/\n**Aporiz's Kawaii Community**: https://kawai-community.giveawaynetwork.xyz/\n**Come Honor Face**: https://honorface.giveawaynetwork.xyz\n**Colonies**: https://colonies.giveawaynetwork.xyz\n**Indian Gaming Server**: https://igs.giveawaynetwork.xyz/\n**Gamer's Paradise**: https://gamer-paradise.giveawaynetwork.xyz\n**Qomepa | Giveaways:** https://qomepa.giveawaynetwork.xyz\n**Skrrr Street:** https://skrrr-street.giveawaynetwork.xyz\n**GLOBAL GAMING HUB:** (Eu amo esse server) https://ggh.giveawaynetwork.xyz\n**Kindergarten Community :** https://kindergarten-community.giveawaynetwork.xyz\n**Stephcraft:** https://stephcraft.giveawaynetwork.xyz\n**Mansão Wayne:** https://mansao-wayne.giveawaynetwork.xyz\n**Gamerz:** https://gamerz.giveawaynetwork.xyz",
+>>>>>>> 029c197e44088da66736ec5fb5299ad078625ab8
     "infos": "**Lute pela neutralidade da rede !**\nhttps://www.battleforthenet.com/",
     "image": "https://www.battleforthenet.com/images/share_images/urgent.png"
   },
   "5": {
     "link": "https://discord.gg/exyxxys",
-    "infos": "Não se esqueça de compartilhar nossa comunidade para os seus amigos ! Para ser capaz de doar keys e de criar novas giveaways como as que vem a seguir, você precisa estar no server oficial.",
+    "infos": "Não se esqueca de compartilhar nossa comunidade para os seus amigos ! Para ser capaz de doar keys e de criar novas giveaways como as que vem a seguir, você precisa estar no server oficial.",
     "image": "https://cdn.discordapp.com/icons/243805708204769292/4de1e054f2398c03586edc0c03d4f8d4.jpg?size=1024"
   },
   "special": {
     "link": "**Patrocine o nosso projeto:** https://www.patreon.com/ga_community\n**Server oficial do Discord:** https://discord.gg/exyxxys\n**Adicione o bot ao seu servidor:** https://bots.discord.pw/bots/298492601756024835\n**DarkCraft French WebTV Project (por adriendark):** https://darkcraft.fr/\n**Gatos aleatórios**: https://discord.gg/ZnzkDys https://discord.gg/6X8zqHm",
-    "infos": "**Evento OFICIAL: Doações massivas**\n- 400 membros na GA Community\n- >100 canais de giveaways\n- Bot presente em >400 servers",
+    "infos": "**Evento OFICIAL: Doacoes massivas**\n- 400 membros na GA Community\n- >100 canais de giveaways\n- Bot presente em >400 servers",
     "image": "http://i.imgur.com/6DbFOXM.jpg"
   },
   "event": {
     "link": "__**DISCORD:**__ https://discord.gg/exyxxys\n\n\n\n**PATREON:** https://www.patreon.com/ga_community\nMe ajude a pagar um bom domínio com um bom nome",
-    "infos": "**Evento OFICIAL: Doações massivas**\n- 500 membros na GA Community\n- >200 canais de giveaways\n- Bot presente em >650 servers",
+    "infos": "**Evento OFICIAL: Doacoes massivas**\n- 500 membros na GA Community\n- >200 canais de giveaways\n- Bot presente em >650 servers",
     "image": "http://i.imgur.com/PBmG5oJ.jpg"
   },
   "server": {
