@@ -1,15 +1,4 @@
 {
-<<<<<<< HEAD
-  "langSet": "Portugu�s ativado",
-  "new": {
-    "announcement": "{{mention}} > Nova giveaway > Jogo: **{{game.name}}**\n>>>Key doada por: <@{{user.id}}> tamb�m conhecido como: **{{user.username}}**",
-    "embed": {
-      "title": "Nova giveaway (Clique aqui)",
-      "titleGameName": "Nome do jogo:",
-      "titleProviderInfos": "__Informa��es do doador:__",
-      "titleEnter": "Para entrar:",
-      "reputation": "Reputa��o: {{user.reputation}}",
-=======
   "langSet": "Portugues ativado",
   "new": {
     "announcement": "{{mention}} > Nova giveaway > Jogo: **{{game.name}}**\n>>>Key doada por: <@{{user.id}}> tambem conhecido como: **{{user.username}}**",
@@ -19,7 +8,6 @@
       "titleProviderInfos": "__Informacoes do doador:__",
       "titleEnter": "Para entrar:",
       "reputation": "Reputacao: {{user.reputation}}",
->>>>>>> 029c197e44088da66736ec5fb5299ad078625ab8
       "keyDonated": "Keys doadas: {{user.keyDonated}}",
       "keyClaimed": "Keys obtidas: {{user.keyClaimed}}",
       "toEnter": "Digite no chat: **{{commandEnter}}**"
@@ -28,28 +16,6 @@
   "timeLeft": ":alarm_clock: Tempo restante: {{seconds}}s :alarm_clock:",
   "guildStats": "#Servidores",
   "winner": {
-<<<<<<< HEAD
-    "announcement": ">>>Ok, {{mention}}:\nUse o comando **{{commandClaim}}** para pegar a sua key.\n**Voc� tem 30s**",
-    "invalidUser": "Usu�rio inv�lido. N�o h� mais usu�rios na giveaway ?",
-    "embed": {
-      "totalUsers": "Total de usu�rios na giveaway : {{count}}",
-      "usersLeft": "Usu�rios restantes na giveaway : {{count}}",
-      "titleGiveawayFinished": "Giveaway terminada",
-      "titleResult": "Resultado",
-      "result": "😇Ganhador: **{{winner.user.username}}**\nEntrou pelo server: **{{winner.channel.guild.name}}**",
-      "invalidResult": "Ningu�m venceu ! 😐 "
-    }
-  },
-  "claimedAnnounce": "Parab�ns para o/a **{{user.username}}** que acabou de ganhar a key",
-  "entered": ":gift: | Voc� entrou na giveaway. Boa sorte",
-  "claimed": "Sua key do jogo __{{game.name}}__: `{{game.key}}`\nSua key n�o funciona ?Voc� tem 10 minutos para usar o comando !rep bad ou | !rep good para avaliar o doador do jogo",
-  "advertisement": {
-    "embed": {
-      "title": "An�ncio",
-      "infos": "Informa��es",
-      "link": "link",
-      "noInfos": "Sem informa��es",
-=======
     "announcement": ">>>Ok, {{mention}}:\nUse o comando **{{commandClaim}}** para pegar a sua key.\n**Voce tem 30s**",
     "invalidUser": "Usuario invalido. Nao ha mais usuarios na giveaway ?",
     "embed": {
@@ -70,7 +36,6 @@
       "infos": "Informacoes",
       "link": "link",
       "noInfos": "Sem informacoes",
->>>>>>> 029c197e44088da66736ec5fb5299ad078625ab8
       "noLink": "Sem link"
     }
   },
