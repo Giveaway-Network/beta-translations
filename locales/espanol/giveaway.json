@@ -1,15 +1,15 @@
 {
-  "langSet": "English on",
+  "langSet": "Spanish on",
   "new": {
-    "announcement": "{{mention}} > Nuevo Sorteo > Juego: **{{game.name}}**\n>>>Codigo donado por: <@{{user.id}}> también conocido como **{{user.username}}**",
+    "announcement": "{{mention}} > Nuevo Sorteo > Juego: **{{game.name}}**\n>>>Codigo donado por: <@{{user.id}}> tambiÃ©n conocido como **{{user.username}}**",
     "embed": {
       "title": "Nuevo Sorteo (Clic aqui)",
       "titleGameName": "Nombre del juego:",
-      "titleProviderInfos": "__Información del proveedor:__",
+      "titleProviderInfos": "__InformaciÃ³n del proveedor:__",
       "titleEnter": "Para entrar:",
-      "reputation": "Reputación: {{user.reputation}}",
-      "keyDonated": "Cóigos donados: {{user.keyDonated}}",
-      "keyClaimed": "Códigos reclamados: {{user.keyClaimed}}",
+      "reputation": "ReputaciÃ³n: {{user.reputation}}",
+      "keyDonated": "CÃ³igos donados: {{user.keyDonated}}",
+      "keyClaimed": "CÃ³digos reclamados: {{user.keyClaimed}}",
       "toEnter": "Escribe en el chat **{{commandEnter}}**"
     }
   },
@@ -17,25 +17,25 @@
   "guildStats": "#Estadisticas",
   "winner": {
     "announcement": ">>>Okey {{mention}}:\nEscribe **{{commandClaim}}** para reclamar tu premio.\n**Tienes 30s**",
-    "invalidUser": "Ususario inválido. ¿ No hay mas usuarios en el sorteo ?",
+    "invalidUser": "Ususario invÃ¡lido. Å¼ No hay mas usuarios en el sorteo ?",
     "embed": {
       "totalUsers": "Cantidad total de usuarios en el sorteo : {{count}}",
       "usersLeft": "Usuarios que quedan en el sorteo : {{count}}",
       "titleGiveawayFinished": "Sorteo finalizado",
       "titleResult": "Resultados",
-      "result": "ğŸ˜‡Ganador: **{{winner.user.username}}**\nEntrado a través del servidor: **{{winner.channel.guild.name}}**",
-      "invalidResult": "¡ Nadie Gana ! ğŸ˜ "
+      "result": "Ä‘ÂŸÂ˜Â‡Ganador: **{{winner.user.username}}**\nEntrado a travÃ©s del servidor: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Ä„ Nadie Gana ! Ä‘ÂŸÂ˜Â "
     }
   },
   "claimedAnnounce": "Felicidades para **{{user.username}}** quien ha reclamado ahora mismo",
   "entered": ":gift: | Has entrado en el sorteo. Buena suerte",
-  "claimed": "Tu código de __{{game.name}}__: `{{game.key}}`\n¿ Tu código no funciona? Tienes 10 minutos para usar el comando !rep bad o !rep good para calificar al proveedor",
+  "claimed": "Tu cÃ³digo de __{{game.name}}__: `{{game.key}}`\nÅ¼ Tu cÃ³digo no funciona? Tienes 10 minutos para usar el comando !rep bad o !rep good para calificar al proveedor",
   "advertisement": {
     "embed": {
       "title": "Anuncio",
-      "infos": "Información",
+      "infos": "InformaciÃ³n",
       "link": "Links",
-      "noInfos": "No hay información",
+      "noInfos": "No hay informaciÃ³n",
       "noLink": "No hay links"
     }
   },
