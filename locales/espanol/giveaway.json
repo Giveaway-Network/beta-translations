@@ -23,8 +23,8 @@
       "usersLeft": "Usuarios que quedan en el sorteo : {{count}}",
       "titleGiveawayFinished": "Sorteo finalizado",
       "titleResult": "Resultados",
-      "result": "đGanador: **{{winner.user.username}}**\nEntrado a través del servidor: **{{winner.channel.guild.name}}**",
-      "invalidResult": "Ą Nadie Gana ! đ "
+      "result": "😇 Ganador: **{{winner.user.username}}**\nEntrado a través del servidor: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Ą Nadie Gana ! 😇 "
     }
   },
   "claimedAnnounce": "Felicidades para **{{user.username}}** quien ha reclamado ahora mismo",
