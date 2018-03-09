@@ -1,0 +1,45 @@
+{
+  "langSet": "English on",
+  "new": {
+    "announcement": "{{mention}} > New giveaway > Game: **{{game.name}}**\n>>>Key donated by: <@{{user.id}}> aka **{{user.username}}**",
+    "embed": {
+      "title": "New Giveaway (Click here)",
+      "titleGameName": "Game name:",
+      "titleProviderInfos": "__Provider Infos:__",
+      "titleEnter": "To enter:",
+      "reputation": "Reputation: {{user.reputation}}",
+      "keyDonated": "Keys donated: {{user.keyDonated}}",
+      "keyClaimed": "Keys claimed: {{user.keyClaimed}}",
+      "toEnter": "Type in chat **{{commandEnter}}**"
+    }
+  },
+  "timeLeft": ":alarm_clock: Time left: {{seconds}}s :alarm_clock:",
+  "guildStats": "#Guilds Stats",
+  "winner": {
+    "announcement": ">>>Okay {{mention}}:\nDo a **{{commandClaim}}** to claim your key.\n**You have 30s**",
+    "invalidUser": "User invalid. No more users in giveaway ?",
+    "embed": {
+      "totalUsers": "Total users in giveaway : {{count}}",
+      "usersLeft": "Users left in giveaway : {{count}}",
+      "titleGiveawayFinished": "Giveaway finished",
+      "titleResult": "Result",
+      "result": "😇Winner: **{{winner.user.username}}**\nEntered through server: **{{winner.channel.guild.name}}**",
+      "invalidResult": "No ones win ! 😐 "
+    }
+  },
+  "claimedAnnounce": "Congrats to **{{user.username}}** who claimed right now",
+  "entered": ":gift: | You entered in giveaway. Good luck",
+  "claimed": "Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "advertisement": {
+    "embed": {
+      "title": "Advertisement",
+      "infos": "Infos",
+      "link": "Links",
+      "noInfos": "No infos",
+      "noLink": "No link"
+    }
+  },
+  "embed": {
+    "footer": "Powered by GA Network"
+  }
+}
