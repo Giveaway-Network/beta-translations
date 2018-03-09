@@ -24,7 +24,7 @@
       "titleGiveawayFinished": "Giveaway finished",
       "titleResult": "Result",
       "result": "😇Winner: **{{winner.user.username}}**\nEntered through server: **{{winner.channel.guild.name}}**",
-      "invalidResult": "No ones win ! 😐 "
+      "invalidResult": "No one wins ! 😐 "
     }
   },
   "claimedAnnounce": "Congrats to **{{user.username}}** who claimed right now",
