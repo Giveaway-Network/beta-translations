@@ -1,7 +1,7 @@
 {
   "langSet": "Suomen kieli Valittu",
   "new": {
-    "announcement": "{{mention}} > Uusi kilpailu > Peli: **{{game.name}}**\n>>>Pelin Lahjoittaja: <@{{user.id}}> eli **{{user.username}}**",
+    "announcement": "{{mention}} > Otsikko > Peli: **{{game.name}}**\n>>>Pelin Lahjoittaja: <@{{user.id}}> eli **{{user.username}}**",
     "embed": {
       "title": "Uusi kilpailu (Click here)",
       "titleGameName": "Pelin nimi:",
