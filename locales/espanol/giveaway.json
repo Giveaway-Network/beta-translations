@@ -1,26 +1,26 @@
 {
   "langSet": "Spanish on",
   "new": {
-    "announcement": "{{mention}} > Nuevo Sorteo > Juego: **{{game.name}}**\n>>>Codigo donado por: <@{{user.id}}> también conocido como **{{user.username}}**",
+    "announcement": "{{mention}} > Nuevo Sorteo > Juego: **{{game.name}}**\n>>>Clave donada por: <@{{user.id}}> también conocido como **{{user.username}}**",
     "embed": {
-      "title": "Nuevo Sorteo (Clic aqui)",
+      "title": "Nuevo Sorteo (Clic aquí)",
       "titleGameName": "Nombre del juego:",
       "titleProviderInfos": "__Información del proveedor:__",
       "titleEnter": "Para entrar:",
       "reputation": "Reputación: {{user.reputation}}",
-      "keyDonated": "Cóigos donados: {{user.keyDonated}}",
-      "keyClaimed": "Códigos reclamados: {{user.keyClaimed}}",
+      "keyDonated": "Claves donadas: {{user.keyDonated}}",
+      "keyClaimed": "Claves reclamadas: {{user.keyClaimed}}",
       "toEnter": "Escribe en el chat **{{commandEnter}}**"
     }
   },
   "timeLeft": ":alarm_clock: Tiempo restante: {{seconds}}s :alarm_clock:",
-  "guildStats": "#Estadisticas",
+  "guildStats": "#Estadísticas",
   "winner": {
     "announcement": ">>>Okey {{mention}}:\nEscribe **{{commandClaim}}** para reclamar tu premio.\n**Tienes 30s**",
-    "invalidUser": "Ususario inválido. No hay más usuarios en el sorteo ?",
+    "invalidUser": "Usuario inválido. No hay más usuarios en el sorteo ?",
     "embed": {
       "totalUsers": "Cantidad total de usuarios en el sorteo : {{count}}",
-      "usersLeft": "Usuarios que quedan en el sorteo : {{count}}",
+      "usersLeft": "Usuarios restantes en el sorteo : {{count}}",
       "titleGiveawayFinished": "Sorteo finalizado",
       "titleResult": "Resultados",
       "result": "😇 Ganador: **{{winner.user.username}}**\nEntrado a través del servidor: **{{winner.channel.guild.name}}**",
@@ -29,7 +29,7 @@
   },
   "claimedAnnounce": "Felicidades para **{{user.username}}** quien ha reclamado ahora mismo",
   "entered": ":gift: | Has entrado en el sorteo. Buena suerte",
-  "claimed": "Tu código de __{{game.name}}__: `{{game.key}}`\nż Tu código no funciona? Tienes 10 minutos para usar el comando !rep bad o !rep good para calificar al proveedor",
+  "claimed": "Tu clave para __{{game.name}}__: `{{game.key}}`\nż ¿Tu clave no funciona? Tienes 10 minutos para usar el comando !rep bad o !rep good para calificar al proveedor",
   "advertisement": {
     "embed": {
       "title": "Anuncio",
