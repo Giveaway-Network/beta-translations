@@ -17,7 +17,7 @@
   "guildStats": "#Estadisticas",
   "winner": {
     "announcement": ">>>Okey {{mention}}:\nEscribe **{{commandClaim}}** para reclamar tu premio.\n**Tienes 30s**",
-    "invalidUser": "Ususario inválido. ż No hay mas usuarios en el sorteo ?",
+    "invalidUser": "Ususario inválido. No hay más usuarios en el sorteo ?",
     "embed": {
       "totalUsers": "Cantidad total de usuarios en el sorteo : {{count}}",
       "usersLeft": "Usuarios que quedan en el sorteo : {{count}}",
