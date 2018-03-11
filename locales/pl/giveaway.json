@@ -1,45 +1,45 @@
 {
-  "langSet": "English on",
+  "langSet": "Wybrano polski",
   "new": {
-    "announcement": "{{mention}} > New giveaway > Game: **{{game.name}}**\n>>>Key donated by: <@{{user.id}}> aka **{{user.username}}**",
+    "announcement": "{{mention}} > Nowy giveaway > Gra: **{{game.name}}**\n>>>Klucz przekazany przez: <@{{user.id}}> vel **{{user.username}}**",
     "embed": {
-      "title": "New Giveaway (Click here)",
-      "titleGameName": "Game name:",
-      "titleProviderInfos": "__Provider Infos:__",
-      "titleEnter": "To enter:",
-      "reputation": "Reputation: {{user.reputation}}",
-      "keyDonated": "Keys donated: {{user.keyDonated}}",
-      "keyClaimed": "Keys claimed: {{user.keyClaimed}}",
-      "toEnter": "Type in chat **{{commandEnter}}**"
+      "title": "Nowy giveaway (Click here)",
+      "titleGameName": "Nazwa gry:",
+      "titleProviderInfos": "__Informacje o dostarczycielu:__",
+      "titleEnter": "Aby dołączyć:",
+      "reputation": "Reputacja: {{user.reputation}}",
+      "keyDonated": "Przekazane klucze: {{user.keyDonated}}",
+      "keyClaimed": "Wygrane klucze: {{user.keyClaimed}}",
+      "toEnter": "napisz w czacie **{{commandEnter}}**"
     }
   },
-  "timeLeft": ":alarm_clock: Time left: {{seconds}}s :alarm_clock:",
-  "guildStats": "#Guilds Stats",
+  "timeLeft": ":alarm_clock: Pozostały czas: {{seconds}}s :alarm_clock:",
+  "guildStats": "#Serwery, z których dołączano",
   "winner": {
-    "announcement": ">>>Okay {{mention}}:\nDo a **{{commandClaim}}** to claim your key.\n**You have 30s**",
-    "invalidUser": "User invalid. No more users in giveaway ?",
+    "announcement": ">>>OK {{mention}}:\nNapisz **{{commandClaim}}** ,by przywłaszczyć klucz.\n**Masz 30 sekund**",
+    "invalidUser": "Nieprawidłowa osoba. Czy nie dołączyło więcej osób? ?",
     "embed": {
-      "totalUsers": "Total users in giveaway : {{count}}",
-      "usersLeft": "Users left in giveaway : {{count}}",
-      "titleGiveawayFinished": "Giveaway finished",
-      "titleResult": "Result",
-      "result": "😇Winner: **{{winner.user.username}}**\nEntered through server: **{{winner.channel.guild.name}}**",
-      "invalidResult": "No one wins ! 😐 "
+      "totalUsers": "Liczba osób, które dołączyły : {{count}}",
+      "usersLeft": "Pozostałe osoby : {{count}}",
+      "titleGiveawayFinished": "Giveaway zakończony",
+      "titleResult": "Wynik",
+      "result": "😇Zwycięzca: **{{winner.user.username}}**\nDołączył przez serwer: **{{winner.channel.guild.name}}**",
+      "invalidResult": "Nikt nie wygrał ! 😐 "
     }
   },
-  "claimedAnnounce": "Congrats to **{{user.username}}** who claimed right now",
-  "entered": ":gift: | You entered in giveaway. Good luck",
-  "claimed": "Your __{{game.name}}__ key: `{{game.key}}`\nYour key doesn't work ? You have 10 minutes to use the command !rep bad or | !rep good to note the game donator",
+  "claimedAnnounce": "Gratulacje dla **{{user.username}}** który/która właśnie uzyskał/a klucz",
+  "entered": ":gift: | Dołączyłeś do giveawaya. Życzę szczęścia!",
+  "claimed": "Twój klucz do __{{game.name}}__ : `{{game.key}}`\nTwój klucz nie działa ? Masz 10 minut na użycie komendy !rep bad lub | !rep good by oznaczyć dostarczyciela",
   "advertisement": {
     "embed": {
-      "title": "Advertisement",
-      "infos": "Infos",
-      "link": "Links",
-      "noInfos": "No infos",
-      "noLink": "No link"
+      "title": "Reklama",
+      "infos": "Informacje",
+      "link": "Linki",
+      "noInfos": "Brak informacji",
+      "noLink": "Brak linków"
     }
   },
   "embed": {
-    "footer": "Powered by GA Network"
+    "footer": "Zasilane przez GA Network"
   }
 }
