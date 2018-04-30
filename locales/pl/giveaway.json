@@ -3,21 +3,21 @@
   "new": {
     "announcement": "{{mention}} > Nowy giveaway > Gra: **{{game.name}}**\n>>>Klucz przekazany przez: <@{{user.id}}> vel **{{user.username}}**",
     "embed": {
-      "title": "Nowy giveaway (Click here)",
+      "title": "Nowy giveaway (Kliknij tutaj)",
       "titleGameName": "Nazwa gry:",
       "titleProviderInfos": "__Informacje o dostarczycielu:__",
       "titleEnter": "Aby dołączyć:",
       "reputation": "Reputacja: {{user.reputation}}",
       "keyDonated": "Przekazane klucze: {{user.keyDonated}}",
       "keyClaimed": "Wygrane klucze: {{user.keyClaimed}}",
-      "toEnter": "napisz w czacie **{{commandEnter}}**"
+      "toEnter": "Napisz na czacie **{{commandEnter}}**"
     }
   },
   "timeLeft": ":alarm_clock: Pozostały czas: {{seconds}}s :alarm_clock:",
-  "guildStats": "#Serwery, z których dołączano",
+  "guildStats": "#Statystyki serwerów",
   "winner": {
-    "announcement": ">>>OK {{mention}}:\nNapisz **{{commandClaim}}** ,by przywłaszczyć klucz.\n**Masz 30 sekund**",
-    "invalidUser": "Nieprawidłowa osoba. Czy nie dołączyło więcej osób? ?",
+    "announcement": ">>>OK {{mention}}:\nNapisz **{{commandClaim}}**, by odebrać swój klucz.\n**Masz 30 sekund**",
+    "invalidUser": "Nieprawidłowa osoba. Czy nie dołączyło więcej osób?",
     "embed": {
       "totalUsers": "Liczba osób, które dołączyły : {{count}}",
       "usersLeft": "Pozostałe osoby : {{count}}",
@@ -27,8 +27,8 @@
       "invalidResult": "Nikt nie wygrał ! 😐 "
     }
   },
-  "claimedAnnounce": "Gratulacje dla **{{user.username}}** który/która właśnie uzyskał/a klucz",
-  "entered": ":gift: | Dołączyłeś do giveawaya. Życzę szczęścia!",
+  "claimedAnnounce": "Gratulacje dla **{{user.username}}**, który/która właśnie uzyskał/a klucz",
+  "entered": ":gift: | Dołączyłeś do giveawaya. Powodzenia!",
   "claimed": "Twój klucz do __{{game.name}}__ : `{{game.key}}`\nTwój klucz nie działa ? Masz 10 minut na użycie komendy !rep bad lub | !rep good by oznaczyć dostarczyciela",
   "advertisement": {
     "embed": {
@@ -40,6 +40,6 @@
     }
   },
   "embed": {
-    "footer": "Zasilane przez GA Network - Translated by ilikestalker"
+    "footer": "Obsługiwany przez GA Network - Przetłumaczony przez ilikestalker i hawkeye116477"
   }
 }
