@@ -19,8 +19,8 @@
     "announcement": ">>>Okay {{mention}}:\nDo a **{{commandClaim}}** to claim your key.\n**You have 30s**",
     "invalidUser": "User invalid. No more users in giveaway ?",
     "embed": {
-      "totalUsers": "Total users in giveaway : {{count}}",
-      "usersLeft": "Users left in giveaway : {{count}}",
+      "totalUsers": "Total users in giveaway: {{count}}",
+      "usersLeft": "Users left in giveaway: {{count}}",
       "titleGiveawayFinished": "Giveaway finished",
       "titleResult": "Result",
       "result": "😇Winner: **{{winner.user.username}}**\nEntered through server: **{{winner.channel.guild.name}}**",
