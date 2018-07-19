@@ -8,15 +8,15 @@
       "titleProviderInfos": "__Informationen zum Spender:__",
       "titleEnter": "Zum teilnehmen:",
       "reputation": "Reputation: {{user.reputation}}",
-      "keyDonated": "Gespendete Spiel-Schlüssel: {{user.keyDonated}}",
-      "keyClaimed": "Erhaltene Spiele-Schlüssel: {{user.keyClaimed}}",
-      "toEnter": "Schreibe **{{commandEnter}}** in diesen Kanal."
+      "keyDonated": "Gespendete Steam-Schlüssel: {{user.keyDonated}}",
+      "keyClaimed": "Erhaltene Steam-Schlüssel: {{user.keyClaimed}}",
+      "toEnter": "Sende **{{commandEnter}}** in diesem Kanal."
     }
   },
   "timeLeft": ":alarm_clock: Übrige Zeit: {{seconds}} Sekunden :alarm_clock:",
-  "guildStats": "#Server Statistiken",
+  "guildStats": "#Server-Statistiken",
   "winner": {
-    "announcement": ">>>Okay {{mention}}:\nUm den Schlüssel des Spiels zu erhalten, benutze **{{commandClaim}}**.\n**Du hast 30 Sekunden!**",
+    "announcement": ">>>Okay {{mention}}:\nUm den Schlüssel des Spiels zu erhalten, benutze **{{commandClaim}}**.\n**Du hast 30 Sekunden zeit!**",
     "invalidUser": "Unbekannter Nutzer. Kein Nutzer mehr im Gewinnspiel ?",
     "embed": {
       "totalUsers": "Anzahl der Teilnehmer am Gewinnspiel : {{count}}",
@@ -27,9 +27,9 @@
       "invalidResult": "Niemand hat gewonnen! 😐"
     }
   },
-  "claimedAnnounce": "Gratulation an **{{user.username}}**, der grade seinen Spiel-Key erhalten hat",
+  "claimedAnnounce": "Gratulation an **{{user.username}}**, der gerade seinen Spiel-Key erhalten hat",
   "entered": ":gift: | Du nimmst jetzt am Gewinnspiel teil! Viel Glück!",
-  "claimed": "Dein Spiel-Schlüssel für __{{game.name}}__: `{{game.key}}`\nDer Schlüssel funktioniert nicht? Du hast 10 Minuten um den Befehl !rep bad oder | !rep good zu benutzen, um dem Spender eine gute bzw. schlechte Bewertung zu hinterlassen.",
+  "claimed": "Dein Steam-Schlüssel für __{{game.name}}__: `{{game.key}}`\nDer Schlüssel funktioniert nicht? Du hast 10 Minuten, um den Befehl !rep bad oder | !rep good zu benutzen, um dem Spender eine gute bzw. schlechte Bewertung zu hinterlassen.",
   "advertisement": {
     "embed": {
       "title": "Werbung",
