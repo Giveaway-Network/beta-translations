@@ -7,9 +7,9 @@
       "titleGameName": "Spill navn:",
       "titleProviderInfos": "__Info om donerer:__",
       "titleEnter": "Till og bli med:",
-      "reputation": "Reputation: {{user.reputation}}",
-      "keyDonated": "Keys donated: {{user.keyDonated}}",
-      "keyClaimed": "Keys claimed: {{user.keyClaimed}}",
+      "reputation": "Reputasjon: {{user.reputation}}",
+      "keyDonated": "Koder donert: {{user.keyDonated}}",
+      "keyClaimed": "Koder skaffet: {{user.keyClaimed}}",
       "toEnter": "Skriv i chat **{{commandEnter}}**"
     }
   },
