@@ -1,0 +1,45 @@
+{
+  "langSet": "Norsk på",
+  "new": {
+    "announcement": "{{mention}} > Ny giveaway > Spill: **{{game.name}}**\n>>>Spillnøkkel donert av: <@{{user.id}}> også kjent som **{{user.username}}**",
+    "embed": {
+      "title": "Ny Giveaway (Klikk her)",
+      "titleGameName": "Spill navn:",
+      "titleProviderInfos": "__Info om donerer:__",
+      "titleEnter": "Till og bli med:",
+      "reputation": "Reputasjon: {{user.reputation}}",
+      "keyDonated": "Koder donert: {{user.keyDonated}}",
+      "keyClaimed": "Koder skaffet: {{user.keyClaimed}}",
+      "toEnter": "Skriv i chat **{{commandEnter}}**"
+    }
+  },
+  "timeLeft": ":alarm_clock: Tid igjen: {{seconds}}sekunder :alarm_clock:",
+  "guildStats": "#Server Statistikk",
+  "winner": {
+    "announcement": ">>>OK {{mention}}:\nKjør **{{commandClaim}}** til og få spillet.\n**Du har 30 sekunder**",
+    "invalidUser": "Bruker ugyldig. Ingen igjen I giveawayen ?",
+    "embed": {
+      "totalUsers": "Total brukere I giveawayen: {{count}}",
+      "usersLeft": "Brukere igjen I giveawayen: {{count}}",
+      "titleGiveawayFinished": "Giveaway er ferdig!",
+      "titleResult": "Resultat",
+      "result": "ğŸ˜‡Winner: **{{winner.user.username}}**\nBle med gjennom : **{{winner.channel.guild.name}}**",
+      "invalidResult": "Ingen vant! ğŸ˜ "
+    }
+  },
+  "claimedAnnounce": "Gratulerer til **{{user.username}}** som skaffet seg spillet akkurat nå",
+  "entered": ":gift: | Du ble med I giveawayen. Lykke til!",
+  "claimed": "Din __{{game.name}}__ kode: `{{game.key}}`\nDin kode funker ikke ? Du har 10 minutter til og skrive !rep bad hvis koden funker ikke eller | !rep good til hvis koden funker.",
+  "advertisement": {
+    "embed": {
+      "title": "Reklame",
+      "infos": "Infomarsjon",
+      "link": "Lenker",
+      "noInfos": "Ingen info ",
+      "noLink": "Ingen lenke"
+    }
+  },
+  "embed": {
+    "footer": "Drevet av GA Network"
+  }
+}
